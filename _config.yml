@@ -1,6 +1,19 @@
-title: Minimal theme
+title: Abhishek Paul
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+  <p align="center">
+  <a href="pdf//resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/abhkpaul/">LinkedIn</a> |
+  <a href="https://github.com/abhkpaul">GitHub</a>
+
+  <br>
+  An out of the box thinker with over 6 Years of industry experience. 
+  Possess strong analytical and problem solving skills. 
+  An effective communicator while interacting with technical and business team. 
+  Analysing problems as well as resolving them meeting business objective meticulously. 
+  Learning attitude towards challenging tasks. Learn More
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
